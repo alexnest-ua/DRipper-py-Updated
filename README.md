@@ -14,7 +14,7 @@ sudo apt upgrade git -y
 sudo apt install python3 -y
 sudo apt upgrade python3 -y
 
-УВАГА У ФАЙЛІ ІР.txt  одночасно може знаходитися лише один ІР:PORT
+ УВАГА У ФАЙЛІ ІР.txt  одночасно може знаходитися лише один ІР:PORT
 ЗАЛИШАЙТЕ ВІКДРИТИМИ НЕ БІЛЬШЕ 3-ОХ ПРАЦЮЮЧИХ СКРИПТІВ
 НЕ ЗАБУВАЙТЕ ЗБЕРІГАТИ ЗМІНИ У IP.txt
 
@@ -48,10 +48,8 @@ cat > IP.txt
 
 у ТРЕТЬОМУ вікні відстежуєте стан усіх процесів:
 або команда
-sudo apt install top 
-- лише один раз прописуйте
-top 
-- дивитесь на python3
+sudo apt install top  - лише один раз прописуйте
+top  - дивитесь на python3
 або команда
 sudo apt install htop - лише один раз прописуйте
 htop - дивитесь на python3 DRipper.py
