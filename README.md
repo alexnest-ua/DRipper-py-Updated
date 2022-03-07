@@ -1,4 +1,4 @@
-# DRipper-py-Updated
+# DRipper-py-Updated from palahsu/DDoS-Ripper
 Easy way to run attack. Just start file with python3 start.py or python start.py and than just edit target of attack in IP.txt - attack will start auto
 
 Для старої версії DDoS-Ripper`a апдейтнув файл start.py . Теперь коли змінюється файл IP.txt (тобто змінюється ціль (зараз поки що лише один ІР може бути)) - відкривається нове вікно атаки:  
